@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: Pranavi S
+### Register Number: 212225040311
+<img width="1920" height="1080" alt="Screenshot (144)" src="https://github.com/user-attachments/assets/c18b7865-b051-4d39-94ed-d3a94e274ae3" />
+
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
